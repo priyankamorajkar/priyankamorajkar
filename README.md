@@ -27,3 +27,10 @@ Languages: Python, R, HTML/CSS, JavaScript (lowkey crush)
 Libraries: pandas, numpy, sklearn, matplotlib, tensorflow
 Tools: Jupyter, VSCode, GitHub, Excel (deadly accurate)
 Special Moves: Data Cleaning, Model Building, Research Writing, Empathy-Driven UI
+
+🐾 Wanna Reach Out?
+
+📬 Email me: priyankamorajkar291@gmail.com
+🌐 LinkedIn: [linkedin.com/in/priyanka-morajkar](https://www.linkedin.com/in/priyankamorajkar/)
+
+
