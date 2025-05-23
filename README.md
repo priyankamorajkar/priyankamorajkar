@@ -1,4 +1,4 @@
-<h1 align="center">🌸 Priyanka Morajkar 🌸</h1>
+<h1 align="center">🌸Priyanka Morajkar🌸</h1>
 <h3 align="center">📊 AI Sorceress | 💻 Code with Compassion | 🦋 Soft Tech Advocate</h3>
 
 <p align="center">
