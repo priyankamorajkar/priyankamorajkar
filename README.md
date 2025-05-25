@@ -1,5 +1,5 @@
 <h1 align="center">🌸Priyanka Morajkar🌸</h1>
-<h3 align="center">📊 AI Sorceress | 💻 Code with Compassion | 🦋 Soft Tech Advocate</h3>
+<h3 align="center">📊 AI Sorceress | 💻 Code with Compassion | 🦋 Code Whisperer</h3>
 
 <p align="center">
   <img src="[https://media.giphy.com/media/WTpTGRH1DNt5ZytY0F/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWFraWQ2a3RvNGtkeGZhdWxqNGl3NGticmV1ZGtxYXJ3NTRidm5rbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPnAiaMCws8nOsE/giphy.gif)" width="250" />
