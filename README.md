@@ -1,14 +1,12 @@
 <h1 align="center">🌸Priyanka Morajkar🌸</h1>
 <h3 align="center">📊 AI Sorceress | 💻 Code with Compassion | 🦋 Code Whisperer</h3>
 
-<p align="center">
-  <img src="[https://media.giphy.com/media/WTpTGRH1DNt5ZytY0F/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWFraWQ2a3RvNGtkeGZhdWxqNGl3NGticmV1ZGtxYXJ3NTRidm5rbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPnAiaMCws8nOsE/giphy.gif)" width="250" />
-</p>
+![funny gif](https://media.giphy.com/media/WTpTGRH1DNt5ZytY0F/giphy.gif)
 
 ---
 
 ### 💫 Who Am I?
-Hey there! I’m **Priyanka Morajkar**, a 23 y/o Mumbai-based AI enthusiast, learner, and soul-healer through tech ✨  
+Hey there! I’m **Priyanka Morajkar**, a 24 y/o Mumbai-based AI enthusiast, learner, and soul-healer through tech ✨  
 I write **code with kindness**, build things that **feel like hugs**, and dream of a tech world that’s **human-first** 💖
 
 > “Code isn't cold. It can be cozy if you write it with care.”
