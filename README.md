@@ -1,7 +1,8 @@
 <h1 align="center">🌸Priyanka Morajkar🌸</h1>
 <h3 align="center">📊 AI Sorceress | 💻 Code with Compassion | 🦋 Code Whisperer</h3>
 
-![funny gif](https://media.giphy.com/media/WTpTGRH1DNt5ZytY0F/giphy.gif)
+![Cartoon Coding GIF by Scaler](https://github.com/user-attachments/assets/cb882b8f-bd04-4374-9939-214590d871a2)
+
 
 ---
 
