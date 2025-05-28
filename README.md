@@ -26,6 +26,8 @@ Libraries: pandas, numpy, sklearn, matplotlib, tensorflow
 Tools: Jupyter, VSCode, GitHub, Excel (deadly accurate)
 Special Moves: Data Cleaning, Model Building, Research Writing, Empathy-Driven UI
 
+---
+
 🐾 Wanna Reach Out?
 
 📬 Email me: priyankamorajkar291@gmail.com
