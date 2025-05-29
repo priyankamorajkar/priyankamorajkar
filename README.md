@@ -9,7 +9,7 @@
 Hey there! I’m **Priyanka Morajkar**, a 24 y/o Mumbai-based AI enthusiast, learner, and soul-healer through tech ✨  
 I write **code with kindness**, build things that **feel like hugs**, and dream of a tech world that’s **human-first** 💖
 
-> “Code isn't cold. It can be cozy if you write it with care.”
+> Code isn't cold. It can be cozy if you write it with care.
 
 ---
 
