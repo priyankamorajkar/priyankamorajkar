@@ -23,7 +23,7 @@ I write **code with kindness**, build things that **feel like hugs**, and dream 
 
 Languages: Python, R, HTML/CSS, JavaScript (lowkey crush)
 Libraries: pandas, numpy, sklearn, matplotlib, tensorflow
-Tools: Jupyter, VSCode, GitHub, SublimeText, R Studio
+Tools: Jupyter, VSCode, GitHub, SublimeText, R Studio, Google Collab
 Special Moves: Data Cleaning, Model Building, Research Writing, Empathy-Driven UI
 
 ---
