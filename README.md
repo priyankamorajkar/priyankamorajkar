@@ -31,7 +31,7 @@ Special Moves: Data Cleaning, Model Building, Research Writing, Empathy-Driven U
 🐾 Wanna Reach Out?
 
 📬 Email me: priyankamorajkar291@gmail.com
-
+🔗 Portfolio: priyankamorajkar.in/
 🌐 LinkedIn: https://www.linkedin.com/in/priyankamorajkar
 
 
